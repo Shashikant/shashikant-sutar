@@ -80,5 +80,10 @@ ERP systems, excise/customs tax software, regulatory validation, user training, 
 - ISTQB Certified Tester – AI Testing
 
 ---
+## 📞 Get In Touch
 
-**Let's connect!** Always excited to discuss test automation innovation, domain expertise, and building intelligent testing systems. 🚀
+- **LinkedIn:** [linkedin.com/in/shashikant-sutar1603](https://linkedin.com/in/shashikant-sutar1603)
+- **Email:** [svs.sutar@gmail.com](mailto:svs.sutar@gmail.com)
+
+Feel free to reach out for QA consulting, test automation architecture, or just to discuss the latest in testing innovation! 🚀
+
