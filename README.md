@@ -6,7 +6,7 @@ My GitHub profile
 Senior QA professional with **16+ years** transforming quality assurance through intelligent test automation and strategic team leadership.
 
 ## 🎓 Background
-- **Current Role:** QA Manager | Automation Architect  
+- **Current Role:** QA Manager | QA Lead | Senior QA Lead | QA Automation Architect  
 - **Team Leadership:** Built & led 16-member QA teams (UK iGaming projects)
 - **Global Experience:** Managed large-scale Retail QA projects (Oracle Finance systems)
 - **Domain Expertise:** iGaming • Retail • E-Commerce Marketplaces • Manufacturing & Excise
@@ -16,7 +16,6 @@ Senior QA professional with **16+ years** transforming quality assurance through
 **Test Automation & Frameworks:**
 - Playwright (TypeScript & JavaScript) - Advanced ✨
 - BDD/Cucumber Framework Design & Implementation
-- Python & Pytest for API/Backend Testing
 - Test Page Object Model (POM) Architecture
 - Canvas-based game automation (OCR, coordinate testing, WebSocket interception)
 
@@ -37,7 +36,7 @@ Senior QA professional with **16+ years** transforming quality assurance through
 
 ## 📊 Key Achievements
 - ✅ **25% defect leakage reduction** through advanced QA strategies
-- ✅ Built scalable **BDD/Cucumber frameworks** for complex iGaming platforms
+- ✅ Built scalable **TDD frameworks** for complex iGaming platforms
 - ✅ Integrated **AI agents** with MCP servers for autonomous test generation
 - ✅ Led 16-member QA teams delivering production-ready software
 - ✅ Mentored junior QA professionals on testing best practices & advanced automation
@@ -58,8 +57,6 @@ ERP systems, excise/customs tax software, regulatory validation, user training, 
 
 ## 💡 Currently Learning & Exploring
 - Advanced AI/ML testing techniques
-- Performance & load testing optimization
-- Cloud-native testing strategies
 - Test data management at scale
 
 ## 📌 Featured Projects
